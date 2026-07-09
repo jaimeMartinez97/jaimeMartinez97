@@ -57,7 +57,7 @@ Desarrollador de Software, Especialista en Soporte Técnico. Me apasiona resolve
 Aquí puedes ver un resumen de mi actividad en la plataforma:
 
 <p align="center">
-  <a href="https://github.com/AVS1508">
+  <a href="https://github.com/jaimeMartinez97">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaimeMartinez97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaimeMartinez97&layout=compact&langs_count=8&theme=algolia"/>
   </a>
