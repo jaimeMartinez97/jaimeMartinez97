@@ -1,5 +1,8 @@
-# ¡Hola! Soy Jaime Martinez 👋
+<div align="center">
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=008080&reversal=true" />
+</div>
 
+# ¡Hola! Soy Jaime Martinez 👋
 Desarrollador de Software, Especialista en Soporte Técnico y Coordinador de Sistemas. Me apasiona resolver problemas complejos, optimizar infraestructuras tecnológicas y construir soluciones de software eficientes y seguras.
 
 ---
