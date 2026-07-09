@@ -1,7 +1,6 @@
 <div align="center">
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1f70e6&reversal=true" />
    
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff007f,00f0ff&reversal=true" />
 </div>
 
 # ¡Hola! Soy Jaime Martinez 👋
@@ -18,7 +17,6 @@ Desarrollador de Software, Especialista en Soporte Técnico. Me apasiona resolve
 - 🛠️ Experto en optimización de servidores, automatización de flujos y desarrollo a medida.
 - ⚙️ En mis tiempos libres, me encanta experimentar con la impresión 3D (PLA/PETG) y explorar la ciberseguridad.
 
----
 ---
 
 ### 🛠️ Mis Habilidades y Tecnologías
@@ -54,7 +52,6 @@ Desarrollador de Software, Especialista en Soporte Técnico. Me apasiona resolve
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
----
 
 ### 📊 Estadísticas de GitHub
 
@@ -69,6 +66,10 @@ Aquí puedes ver un resumen de mi actividad en la plataforma:
 
 ---
 
+### 🐍 Contribution Snake
+![snake gif](https://github.com/jaimeMartinez97jaimeMartinez97/blob/output/github-contribution-grid-snake.svg)
+
+---
 ### 🤝 Conectemos
 
 ¿Tienes un proyecto en mente, necesitas soporte de infraestructura o simplemente quieres hablar de tecnología? ¡Contáctame!
