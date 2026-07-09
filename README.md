@@ -33,8 +33,12 @@ Desarrollador de Software, Especialista en Soporte Técnico y Coordinador de Sis
 
 Aquí puedes ver un resumen de mi actividad en la plataforma:
 
-| ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radial) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radial) |
-| --- | --- |
+<p align="center">
+  <a href="https://github.com/AVS1508">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaimeMartinez97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaimeMartinez97&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 ---
 
