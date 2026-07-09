@@ -3,7 +3,7 @@
    
 </div>
 
-# ¡Hola! Soy Jaime Martinez 👋
+# <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px> ¡Hola! Soy Jaime Martinez 👋
 Desarrollador de Software, Especialista en Soporte Técnico. Me apasiona resolver problemas complejos, optimizar infraestructuras tecnológicas y construir soluciones de software eficientes y seguras.
 
 ---
@@ -41,7 +41,6 @@ Desarrollador de Software, Especialista en Soporte Técnico. Me apasiona resolve
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-9CFE42?style=for-the-badge&logo=linuxmint&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![AlmaLinux](https://img.shields.io/badge/AlmaLinux-F44336?style=for-the-badge&logo=almalinux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 #### **Infraestructura, DevOps y Hardware**
@@ -53,7 +52,7 @@ Desarrollador de Software, Especialista en Soporte Técnico. Me apasiona resolve
 
 ---
 
-### 📊 Estadísticas de GitHub
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estadísticas de GitHub
 
 Aquí puedes ver un resumen de mi actividad en la plataforma:
 
