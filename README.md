@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=23272a&reversal=true" />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1f70e6&reversal=true" />
 </div>
 
 # ¡Hola! Soy Jaime Martinez 👋
