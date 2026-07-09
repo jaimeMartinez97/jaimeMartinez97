@@ -66,8 +66,13 @@ Aquí puedes ver un resumen de mi actividad en la plataforma:
 
 ---
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/jaimeMartinez97jaimeMartinez97/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Mi Historial de Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaimeMartinez97/jaimeMartinez97/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaimeMartinez97/jaimeMartinez97/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/jaimeMartinez97/jaimeMartinez97/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 ### 🤝 Conectemos
